@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mubarek Hussen Endris</h1>
-<h3 align="center">A passionate Generative AI Engineer</h3>
+<h3 align="center">A passionate Generative AI Engineer From Addis Ababa, Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubarekhussen&label=Profile%20views&color=0e75b6&style=flat" alt="mubarekhussen" /> </p>
 
